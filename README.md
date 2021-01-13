@@ -17,3 +17,9 @@ pip intall -r requirements.txt
 python contrib/env_gen.py
 python manage.py migrate
 """
+
+## Links
+[python-decouple](https://github.com/henriquebastos/python-decouple)
+
+[package-of-the-week-python-decouple](https://simpleisbetterthancomplex.com/20
+15/11/26/packge-of-the-week-python-decouple.html)
