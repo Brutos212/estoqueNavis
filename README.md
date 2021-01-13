@@ -11,7 +11,7 @@ Controle de estoqueNavis
 """
 git clone https://github.com/Brutos212/estoqueNavis
 cd estoqueNavis
-python3 -m venv .venv
+python3 -m venv .estoq
 . .venv/bin/activate
 pip intall -r requirements.txt
 python contrib/env_gen.py
