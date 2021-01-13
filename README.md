@@ -1,8 +1,8 @@
-# estoqueNavis
+# EstoqueNavis
 
-Controle de estoqueNavis
+Controle de Estoque
 
-## Estou fazendo este controle de estoqueNavis como estudo do Prof Regis
+## Estou fazendo este controle de estoque como estudo do Prof Regis
 * Clone do repositorio.
 * Criação do virtualenv com Python3.
 * Instale as dependências.
