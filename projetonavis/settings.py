@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     #My app
     'projetonavis.core',
     'projetonavis.produtos',
+    'projetonavis.estoque',
 
    
 ]
