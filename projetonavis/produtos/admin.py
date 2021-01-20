@@ -13,4 +13,4 @@ class ProdutosAdmin(admin.ModelAdmin):
         'estoque_minimo',
     )
     search_fields = ('produtos',)
-    list_fields = ('importado',)
+    list_filter = ('importado',)
